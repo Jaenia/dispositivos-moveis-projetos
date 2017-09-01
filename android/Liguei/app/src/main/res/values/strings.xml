@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SOS Ligou</string>
+    <string name="action_settings">Apagar TODOS os números</string>
+    <string name="title_activity_cadastro">Novo número</string>
+</resources>
